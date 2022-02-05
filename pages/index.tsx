@@ -6,6 +6,10 @@ function Home() {
       Hello world.
       <br />
       <Link href="/about">About</Link>
+      <br />
+      <Link href="/1">first</Link>
+      <br />
+      <Link href="/2">second</Link>
     </div>
   );
 }
